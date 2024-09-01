@@ -1,0 +1,43 @@
+## Descripcion de los ejercicios
+## Instituto Tecnológico de Tepic
+## Desarrollo de Servicios Web 5A
+## Díaz Canales José Lino
+
+# 6. Arrays y Métodos Básicos
+- Descripción: Declara un array con los números del 1 al 5. Agrega el número 6 al
+final del array y luego imprime el array modificado.
+
+# 7. Manipulación de Strings
+- Descripción: Escribe una función `toUpperCase` que reciba una cadena de texto y
+devuelva la misma cadena en mayúsculas.
+# 8. Objetos Básicos
+- Descripción: Declara un objeto `persona` con propiedades `nombre`, `edad`, y
+`ciudad`. Imprime cada propiedad en la consola.
+
+# 9. Manipulación de Objetos
+- Descripción: Añade una función `imprimirInfo` dentro del objeto `persona` que
+imprima una frase con la información del objeto (e.g., "Soy [nombre], tengo [edad]
+años y vivo en [ciudad]").
+
+# 10. Funciones Anónimas y Callbacks
+- Descripción: Escribe una función `operacion` que reciba dos números y un
+callback. El callback debe realizar una operación (suma, resta, multiplicación, etc.) con
+los dos números.
+
+# 11. Manipulación de Arrays
+- Descripción: Crea una función `sumarElementos` que reciba un array de
+números y devuelva la suma de todos los elementos.
+
+# 12. Uso de `map` y `filter`
+- Descripción: Escribe una función `filtrarPares` que reciba un array de números y
+devuelva un nuevo array solo con los números pares utilizando `filter`.
+- Objetivo: Aprender a utilizar métodos avanzados de arrays como `filter`.
+
+# 13. Funciones Flecha
+- Descripción: Reescribe la función `filtrarPares` usando la sintaxis de funciones
+flecha.
+
+# 14. Promesas Básicas
+- Descripción: Escribe una función `promesaSuma` que reciba dos números y
+devuelva una promesa que se resuelva con la suma de esos números después de 2
+segundos.
