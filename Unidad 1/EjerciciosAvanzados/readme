@@ -1,0 +1,23 @@
+## DESCRIPCION SOBRE LOS EJERCICIOS A RESOLVER
+
+# 16. Manipulación Compleja de Arrays
+    - Descripción: Crea una función `duplicarYFiltrar` que reciba un array de números, duplique cada número y luego filtre solo los números mayores a 10.
+
+# 17. Reducción de Arrays
+    - Descripción: Escribe una función `contarCaracteres` que reciba un array de strings y devuelva el número total de caracteres de todos los strings utilizando `reduce`.
+;
+# 18. Uso de `fetch` (Simulación)
+    - Descripción: Simula una llamada a una API externa utilizando `fetch` con la URL `"https://jsonplaceholder.typicode.com/posts"`, y procesa los datos para imprimir solo los títulos de los posts.
+
+# 19. Manipulación de Objetos Complejos
+    - Descripción: Crea un objeto `curso` que contenga propiedades `nombre`, `alumnos` (un array de objetos con propiedades `nombre` y `calificacion`). Escribe una función `calcularPromedio` que calcule el promedio de calificaciones de los alumnos.
+
+# 20. Aplicación de Clases
+    - Descripción: Crea una clase `Coche` con propiedades `marca`, `modelo`, y `año`. Añade un método `describir` que imprima una descripción del coche. Luego, crea instancias de la clase y llama al método `describir` para cada instancia.
+
+
+# 21: Uso de lodash para Manipulación de Arrays
+Descripción: Utiliza el paquete lodash para encontrar la intersección de dos arrays y ordenarlos de manera ascendente.
+Instrucciones:
+Instala lodash usando npm: npm install lodash.
+Escribe una función interseccionYOrdenar que reciba dos arrays y devuelva un array con la intersección de ambos, ordenado de manera ascendente.
