@@ -3,5 +3,22 @@
 #####_Desarrollo de Servicios Web 5A_
 ######_Cabral Machuca Alejandro Aarón_
 El contenido de esta carpeta son los ejercicios desarrollados en clase, por equipo y de los cuales todos en esta carpeta son todos ejercicios básicos en JavaScript. 
+
+- 1- Hola Mundo
+   - Descripción: Crea un archivo `hello.js` que imprima "Hola, Mundo" en la consola.
+
+- 2- Variables y Operaciones Básicas
+   - Descripción: Declara dos variables `a` y `b` con valores numéricos. Imprime la suma, resta, multiplicación y división de `a` y `b`.
+
+- 3- Función de Suma
+   - Descripción: Escribe una función llamada `suma` que reciba dos números como argumentos y devuelva su suma.
+
+- 4- Condicionales Básicos
+   - Descripción: Crea una función `mayorDeEdad` que reciba un número como argumento y devuelva "Eres mayor de edad" si el número es mayor o igual a 18, o "Eres menor de edad" de lo contrario.
+
+- 5-  Bucles Simples
+   - Descripción: Escribe un bucle `for` que imprima los números del 1 al 10.
+
+ 
 ###_Coclusión personal _
 Estos ejercicios fueron buenos para recordar y empezar a desarrollar nuetras habilidades para programar en JavaScrip, en mi caso nunca vi JavaScript tan a fondo, se vio muy poco en Programación web dado por el poco tiempo que se tenía para ver la materia, a la hora de desarrollar los ejercicios me senti un poco lento pero poco a poco con ayudad de mis compañeros de equipo fui viendo el desarrollo y la estructura en este lenguaje. 
