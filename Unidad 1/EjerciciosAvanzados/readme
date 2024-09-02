@@ -1,4 +1,7 @@
-## DESCRIPCION SOBRE LOS EJERCICIOS A RESOLVER
+## Descripcion de los ejercicios
+## Instituto Tecnológico de Tepic
+## Desarrollo de Servicios Web 5A
+## Bañuelos Garcia Jose Rodolfo
 
 # 16. Manipulación Compleja de Arrays
     - Descripción: Crea una función `duplicarYFiltrar` que reciba un array de números, duplique cada número y luego filtre solo los números mayores a 10.
